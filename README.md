@@ -1,4 +1,4 @@
-# TSP-Using-ACO
+# IT300 DAA Project: Travelling Salesman Problem Using Ant Colony Optimization 
 ## Solving Travelling Salesman Problem (TSP) using Ant Colony Optimization (ACO) method
 
 ###  The Base Paper is attached in the **'src'** folder 
