@@ -1,5 +1,5 @@
-##### TSP-Using-ACO
-Solving Travelling Salesman Problem (TSP) using Ant Colony Optimization (ACO) method
+# TSP-Using-ACO
+## Solving Travelling Salesman Problem (TSP) using Ant Colony Optimization (ACO) method
 
 
 * Clone the repository
