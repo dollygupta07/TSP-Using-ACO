@@ -1,7 +1,7 @@
 # **TSP-Using-ACO**
 ## Solving Travelling Salesman Problem (TSP) using Ant Colony Optimization (ACO) method
 
-###  The Base Paper is attached in the **src** folder 
+###  The Base Paper is attached in the **'src'** folder 
 
 * Clone the repository
 * Run the following commands:
